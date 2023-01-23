@@ -20,3 +20,4 @@ print("All even nums: " , num)
 # Code explained: While the array is true for an input, it will keep asking for a number until you submit "QUIT", then the program stops
 # - and breaks, printing the output of all the numbers inputed within the array.
 # Couldn't figure out how to implent even while printing out all nums. All nums work if you delete lines 9-11.
+
